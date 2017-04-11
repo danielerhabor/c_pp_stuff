@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1491931103 source:c:\csci136\selection_insertion_sort_4_11_17\main.cpp
+	<iostream>
+	<vector>
+	<ctime>
+	<cstdlib>
+
